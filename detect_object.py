@@ -40,3 +40,7 @@ def detect_objects(image_np, sess, detection_graph):
     )
 
     return dict(rect_points=rect_points, class_names=class_names, class_colors=class_colors)
+
+
+
+!pip install tensorflow
