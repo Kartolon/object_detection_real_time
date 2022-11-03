@@ -43,4 +43,3 @@ def detect_objects(image_np, sess, detection_graph):
 
 
 
-!pip install tensorflow
